@@ -69,13 +69,7 @@ function createProduct() {
   row.innerHTML = `<tr class = "product">
                   <td class="name>
                   <span>${name}</span>
-                  </td>
-  
-  
-  
-  
-  
-
+                  </td>`
 
 }
 
